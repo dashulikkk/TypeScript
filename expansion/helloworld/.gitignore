@@ -1,0 +1,10 @@
+out
+dist
+.vscode-test/
+*.vsix
+node_modules/
+helloworld/out/
+*.js
+*.js.map
+.vscode-test.mjs
+package-lock.json
